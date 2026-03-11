@@ -1,0 +1,58 @@
+# Quincy Jones – Just Once
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.22] I did my best
+[00:16.24] But I guess my best wasn't good enough
+[00:19.81] 'Cause here we are back where we were before
+[00:26.48] Seems nothing ever changes
+[00:29.87] We're back to being strangers
+[00:33.52] Wondering if we oughta stay
+[00:36.64] Or head on out the door
+[00:48.14] 
+[00:42.62] Just once
+[00:44.71] Can we figure out what we keep doing wrong?
+[00:51.89] Why we never last for very long
+[00:57.51] What are we doing wrong?
+[01:02.73] Just once
+[01:04.87] Can we find a way to finally make it right?
+[01:11.65] To make the magic last for more than just one night
+[01:18.52] We could just get to it
+[01:21.62] I know we could break through it
+[01:37.62] 
+[01:39.28] I gave my all
+[01:41.39] But I think my all may have been too much
+[01:45.10] Lord knows we're not getting anywhere
+[01:51.73] Seems we're always blowing
+[01:54.96] Whatever we got going
+[01:57.96] And it seems at times with all we've got
+[02:01.59] We haven't got a prayer
+[02:13.09] 
+[02:07.52] Just once
+[02:09.58] Can we figure out what we keep doing wrong?
+[02:16.58] Why the good times never last for long
+[02:22.56] Where are we going wrong?
+[02:27.53] Just once
+[02:29.63] Can we find a way to finally make it right?
+[02:36.65] To make the magic last for more than just one night
+[02:43.18] I know we could break through it
+[02:46.65] If we could just get to it just once
+[03:04.65] 
+[02:52.59] I want to understand
+[02:56.68] Why it always come back to goodbye
+[03:03.23] Why can't we get ourselves in hand?
+[03:09.96] And admit to one another
+[03:13.40] We're no good without each other
+[03:17.17] Take the best and make it better
+[03:19.98] Find a way to stay together
+[03:33.48] 
+[03:24.21] Just once
+[03:26.17] Can we find a way to finally make it right? Whoa
+[03:33.20] To make the magic last for more than just one night
+[03:39.85] I know we could break through it
+[03:42.94] If we could just get to it just once
+[04:00.94] 
+[03:56.15] We could get to it
+[04:02.17] Just once
+```
