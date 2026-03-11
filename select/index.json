@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Just Once",
+  "base_artist": "Quincy Jones",
+  "createdAt": "2026-03-11T06:57:24.477002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "David Lee Murphy",
+      "has_synced": true,
+      "path": "select/01_Just_Once_David_Lee_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just Once (Album Version)",
+      "artist": "David Lee Murphy",
+      "has_synced": true,
+      "path": "select/02_Just_Once_(Album_Version)_David_Lee_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Bikini Kill",
+      "has_synced": false,
+      "path": "select/03_Just_Once_Bikini_Kill.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/04_Just_Once_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Quincy Jones & James Ingram",
+      "has_synced": true,
+      "path": "select/05_Just_Once_Quincy_Jones_&_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Once In My Life",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/06_Just_Once_In_My_Life_Carole_King.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Sonny Rollins",
+      "has_synced": false,
+      "path": "select/07_Just_Once_Sonny_Rollins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just Once In My Life",
+      "artist": "The Righteous Brothers",
+      "has_synced": false,
+      "path": "select/08_Just_Once_In_My_Life_The_Righteous_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Once In My Life",
+      "artist": "The Righteous Brothers",
+      "has_synced": true,
+      "path": "select/09_Just_Once_In_My_Life_The_Righteous_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Once In My Live",
+      "artist": "The Righteous Brothers",
+      "has_synced": true,
+      "path": "select/10_Just_Once_In_My_Live_The_Righteous_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "James Ingram",
+      "has_synced": true,
+      "path": "select/11_Just_Once_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'd Love Just Once To See You - Remastered 2001",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/12_I'd_Love_Just_Once_To_See_You_-_Remastered_2001_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'd Love Just Once To See You",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/13_I'd_Love_Just_Once_To_See_You_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Once In My Life - Remastered 2000",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/14_Just_Once_In_My_Life_-_Remastered_2000_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "James Ingram",
+      "has_synced": true,
+      "path": "select/15_Just_Once_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just Once in the World",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/16_Just_Once_in_the_World_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Evans Blue",
+      "has_synced": false,
+      "path": "select/17_Just_Once_Evans_Blue.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Just Once",
+      "artist": "Tantric",
+      "has_synced": true,
+      "path": "select/18_Just_Once_Tantric.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Once",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Once_Quincy_Jones.txt"
+    }
+  ]
+}
